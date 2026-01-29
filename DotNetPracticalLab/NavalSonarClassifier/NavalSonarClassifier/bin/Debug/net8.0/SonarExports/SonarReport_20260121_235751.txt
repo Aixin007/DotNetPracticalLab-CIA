@@ -1,0 +1,45 @@
+﻿NAVAL SONAR SYSTEM - DETAILED CONTACT REPORT
+Generated: 2026-01-21 23:57:51
+Total Contacts: 1
+======================================================================
+
+SUMMARY BY OBJECT TYPE:
+----------------------------------------
+SurfaceVessel  : 1 contacts
+
+======================================================================
+DETAILED CONTACT INFORMATION:
+======================================================================
+
+[CONTACT #1]
+----------------------------------------
+CONTACT ID: 146bb0b3-6a80-465a-aead-b77f9b4afcbe
+Detection Time: 2026-01-21 23:57:27
+Classification: SurfaceVessel
+Confidence: High
+Threat Level: 14%
+Position - Range: 3994m, Bearing: 81.5°, Depth: 123m
+Motion - Speed: 16.5m/s, Course: 296.5°
+
+ACOUSTIC SIGNATURE:
+  Doppler Shift: 17.5 Hz
+  SNR: 19.2 dB
+  Features:
+    MeanAmplitude: 0.187
+    MaxAmplitude: 1.070
+    MinAmplitude: 0.000
+    StdDev: 0.230
+    Doppler: 17.478
+    SNR: 19.204
+    SpectralCentroid: 205.927
+    Complexity: 0.324
+
+
+======================================================================
+SYSTEM STATISTICS:
+======================================================================
+Average Range: 3994m
+Average Speed: 16.5m/s
+Average Threat Level: 14%
+High Threat Contacts (>70%): 0
+Unknown Classifications: 0

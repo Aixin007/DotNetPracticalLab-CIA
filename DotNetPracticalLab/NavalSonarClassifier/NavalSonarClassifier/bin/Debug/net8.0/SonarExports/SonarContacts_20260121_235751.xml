@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSerializableContact xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SerializableContact>
+    <Id>146bb0b3-6a80-465a-aead-b77f9b4afcbe</Id>
+    <DetectionTime>2026-01-21T23:57:27.4213204+05:30</DetectionTime>
+    <Range>3994.4445827624704</Range>
+    <Bearing>81.4518067516662</Bearing>
+    <Depth>122.88361157132249</Depth>
+    <Speed>16.461582612260102</Speed>
+    <Course>296.54994002198833</Course>
+    <Classification>SurfaceVessel</Classification>
+    <Confidence>High</Confidence>
+    <ThreatLevel>0.14372370837609164</ThreatLevel>
+  </SerializableContact>
+</ArrayOfSerializableContact>

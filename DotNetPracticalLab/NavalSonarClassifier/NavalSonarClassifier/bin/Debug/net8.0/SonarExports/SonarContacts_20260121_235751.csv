@@ -1,0 +1,2 @@
+﻿ID,DetectionTime,Classification,Confidence,ThreatLevel,Range(m),Bearing(deg),Depth(m),Speed(m/s),Course(deg),DopplerShift(Hz),SNR(dB)
+146bb0b3-6a80-465a-aead-b77f9b4afcbe,2026-01-21 23:57:27,SurfaceVessel,High,0.144,3994.4,81.5,122.9,16.5,296.5,17.5,19.2

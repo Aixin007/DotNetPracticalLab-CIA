@@ -1,0 +1,406 @@
+﻿NAVAL SONAR SYSTEM - DETAILED CONTACT REPORT
+Generated: 2026-01-22 00:00:09
+Total Contacts: 16
+======================================================================
+
+SUMMARY BY OBJECT TYPE:
+----------------------------------------
+SurfaceVessel  : 14 contacts
+Unknown        : 2 contacts
+
+======================================================================
+DETAILED CONTACT INFORMATION:
+======================================================================
+
+[CONTACT #1]
+----------------------------------------
+CONTACT ID: 41c2a2b8-9c43-4a34-99dc-7797511f2e29
+Detection Time: 2026-01-21 23:59:52
+Classification: SurfaceVessel
+Confidence: High
+Threat Level: 19%
+Position - Range: 2261m, Bearing: 14.4°, Depth: 342m
+Motion - Speed: 5.7m/s, Course: 97.0°
+
+ACOUSTIC SIGNATURE:
+  Doppler Shift: 1.9 Hz
+  SNR: 24.2 dB
+  Features:
+    MeanAmplitude: 0.063
+    MaxAmplitude: 0.707
+    MinAmplitude: 0.000
+    StdDev: 0.101
+    Doppler: 1.860
+    SNR: 24.218
+    SpectralCentroid: 155.693
+    Complexity: 0.285
+
+
+[CONTACT #2]
+----------------------------------------
+CONTACT ID: d2ff8b65-04c7-42b0-8f9a-b6ffc7fceb9e
+Detection Time: 2026-01-21 23:59:58
+Classification: SurfaceVessel
+Confidence: High
+Threat Level: 17%
+Position - Range: 2458m, Bearing: 18.6°, Depth: 266m
+Motion - Speed: 0.0m/s, Course: 114.4°
+
+ACOUSTIC SIGNATURE:
+  Doppler Shift: 0.0 Hz
+  SNR: 13.2 dB
+  Features:
+    MeanAmplitude: 0.035
+    MaxAmplitude: 0.707
+    MinAmplitude: 0.000
+    StdDev: 0.098
+    Doppler: 0.000
+    SNR: 13.181
+    SpectralCentroid: 234.402
+    Complexity: 0.307
+
+
+[CONTACT #3]
+----------------------------------------
+CONTACT ID: 4e07fdfb-b96a-42db-849c-c337c63099a6
+Detection Time: 2026-01-21 23:59:45
+Classification: SurfaceVessel
+Confidence: High
+Threat Level: 14%
+Position - Range: 4814m, Bearing: -95.2°, Depth: 241m
+Motion - Speed: 39.0m/s, Course: 16.2°
+
+ACOUSTIC SIGNATURE:
+  Doppler Shift: 120.9 Hz
+  SNR: 27.2 dB
+  Features:
+    MeanAmplitude: 0.074
+    MaxAmplitude: 1.009
+    MinAmplitude: 0.000
+    StdDev: 0.180
+    Doppler: 120.903
+    SNR: 27.244
+    SpectralCentroid: 289.835
+    Complexity: 0.256
+
+
+[CONTACT #4]
+----------------------------------------
+CONTACT ID: 833fd82b-6e9c-4fe7-a6ee-06e824a232df
+Detection Time: 2026-01-21 23:59:50
+Classification: SurfaceVessel
+Confidence: High
+Threat Level: 13%
+Position - Range: 3686m, Bearing: 20.3°, Depth: 209m
+Motion - Speed: 0.0m/s, Course: 7.8°
+
+ACOUSTIC SIGNATURE:
+  Doppler Shift: 0.0 Hz
+  SNR: 10.1 dB
+  Features:
+    MeanAmplitude: 0.036
+    MaxAmplitude: 0.722
+    MinAmplitude: 0.000
+    StdDev: 0.099
+    Doppler: 0.000
+    SNR: 10.079
+    SpectralCentroid: 238.803
+    Complexity: 0.311
+
+
+[CONTACT #5]
+----------------------------------------
+CONTACT ID: 5428b172-f05b-4d8a-8531-b78f506b10ba
+Detection Time: 2026-01-21 23:59:58
+Classification: SurfaceVessel
+Confidence: High
+Threat Level: 12%
+Position - Range: 4268m, Bearing: 64.1°, Depth: 308m
+Motion - Speed: 0.0m/s, Course: 216.7°
+
+ACOUSTIC SIGNATURE:
+  Doppler Shift: 0.0 Hz
+  SNR: 10.1 dB
+  Features:
+    MeanAmplitude: 0.035
+    MaxAmplitude: 0.721
+    MinAmplitude: 0.000
+    StdDev: 0.100
+    Doppler: 0.000
+    SNR: 10.144
+    SpectralCentroid: 239.194
+    Complexity: 0.316
+
+
+[CONTACT #6]
+----------------------------------------
+CONTACT ID: fce258f3-5603-4947-8cbf-413be5348ede
+Detection Time: 2026-01-21 23:59:58
+Classification: SurfaceVessel
+Confidence: High
+Threat Level: 11%
+Position - Range: 4653m, Bearing: -177.8°, Depth: 111m
+Motion - Speed: 0.0m/s, Course: 267.5°
+
+ACOUSTIC SIGNATURE:
+  Doppler Shift: 0.0 Hz
+  SNR: 14.7 dB
+  Features:
+    MeanAmplitude: 0.036
+    MaxAmplitude: 0.714
+    MinAmplitude: 0.000
+    StdDev: 0.098
+    Doppler: 0.000
+    SNR: 14.747
+    SpectralCentroid: 237.227
+    Complexity: 0.309
+
+
+[CONTACT #7]
+----------------------------------------
+CONTACT ID: d7a337cf-f57b-45c8-977f-5bc464fdccfc
+Detection Time: 2026-01-21 23:59:50
+Classification: SurfaceVessel
+Confidence: High
+Threat Level: 10%
+Position - Range: 5270m, Bearing: 133.9°, Depth: 131m
+Motion - Speed: 4.3m/s, Course: 338.6°
+
+ACOUSTIC SIGNATURE:
+  Doppler Shift: 12.9 Hz
+  SNR: 1.3 dB
+  Features:
+    MeanAmplitude: 0.242
+    MaxAmplitude: 0.500
+    MinAmplitude: 0.000
+    StdDev: 0.144
+    Doppler: 12.915
+    SNR: 1.281
+    SpectralCentroid: 252.926
+    Complexity: 0.346
+
+
+[CONTACT #8]
+----------------------------------------
+CONTACT ID: b300b557-a8cf-48e9-8425-18b7b16b9390
+Detection Time: 2026-01-21 23:59:54
+Classification: SurfaceVessel
+Confidence: High
+Threat Level: 10%
+Position - Range: 5714m, Bearing: 26.4°, Depth: 189m
+Motion - Speed: 12.2m/s, Course: 30.3°
+
+ACOUSTIC SIGNATURE:
+  Doppler Shift: -7.3 Hz
+  SNR: 17.2 dB
+  Features:
+    MeanAmplitude: 0.184
+    MaxAmplitude: 1.093
+    MinAmplitude: 0.000
+    StdDev: 0.233
+    Doppler: -7.288
+    SNR: 17.194
+    SpectralCentroid: 207.344
+    Complexity: 0.314
+
+
+[CONTACT #9]
+----------------------------------------
+CONTACT ID: 2d9aa1d5-bcad-4158-ade0-cca75dbf1759
+Detection Time: 2026-01-21 23:59:45
+Classification: SurfaceVessel
+Confidence: High
+Threat Level: 7%
+Position - Range: 7767m, Bearing: -6.6°, Depth: 134m
+Motion - Speed: 14.9m/s, Course: 222.0°
+
+ACOUSTIC SIGNATURE:
+  Doppler Shift: -6.9 Hz
+  SNR: 19.8 dB
+  Features:
+    MeanAmplitude: 0.063
+    MaxAmplitude: 0.699
+    MinAmplitude: 0.000
+    StdDev: 0.102
+    Doppler: -6.889
+    SNR: 19.833
+    SpectralCentroid: 168.322
+    Complexity: 0.293
+
+
+[CONTACT #10]
+----------------------------------------
+CONTACT ID: 6345e710-552b-4fad-993a-e463899e12f5
+Detection Time: 2026-01-21 23:59:58
+Classification: SurfaceVessel
+Confidence: High
+Threat Level: 6%
+Position - Range: 8879m, Bearing: 3.5°, Depth: 283m
+Motion - Speed: 30.3m/s, Course: 173.6°
+
+ACOUSTIC SIGNATURE:
+  Doppler Shift: 145.6 Hz
+  SNR: 27.0 dB
+  Features:
+    MeanAmplitude: 0.050
+    MaxAmplitude: 1.013
+    MinAmplitude: 0.000
+    StdDev: 0.162
+    Doppler: 145.584
+    SNR: 26.995
+    SpectralCentroid: 266.053
+    Complexity: 0.293
+
+
+[CONTACT #11]
+----------------------------------------
+CONTACT ID: 87dc9e36-948e-4b17-951b-9d1e91bc2988
+Detection Time: 2026-01-21 23:59:50
+Classification: SurfaceVessel
+Confidence: High
+Threat Level: 6%
+Position - Range: 7767m, Bearing: 77.5°, Depth: 399m
+Motion - Speed: 0.0m/s, Course: 276.4°
+
+ACOUSTIC SIGNATURE:
+  Doppler Shift: 0.0 Hz
+  SNR: 12.7 dB
+  Features:
+    MeanAmplitude: 0.035
+    MaxAmplitude: 0.719
+    MinAmplitude: 0.000
+    StdDev: 0.099
+    Doppler: 0.000
+    SNR: 12.728
+    SpectralCentroid: 238.945
+    Complexity: 0.305
+
+
+[CONTACT #12]
+----------------------------------------
+CONTACT ID: 5bb64b15-d53a-4285-87a5-7c209f048c4e
+Detection Time: 2026-01-21 23:59:54
+Classification: SurfaceVessel
+Confidence: High
+Threat Level: 6%
+Position - Range: 8014m, Bearing: 10.8°, Depth: 266m
+Motion - Speed: 4.5m/s, Course: 334.3°
+
+ACOUSTIC SIGNATURE:
+  Doppler Shift: -9.7 Hz
+  SNR: 14.1 dB
+  Features:
+    MeanAmplitude: 0.235
+    MaxAmplitude: 0.500
+    MinAmplitude: 0.000
+    StdDev: 0.146
+    Doppler: -9.686
+    SNR: 14.126
+    SpectralCentroid: 264.281
+    Complexity: 0.344
+
+
+[CONTACT #13]
+----------------------------------------
+CONTACT ID: 5622583a-c781-49a4-bda1-f155de57a8ed
+Detection Time: 2026-01-21 23:59:56
+Classification: SurfaceVessel
+Confidence: High
+Threat Level: 5%
+Position - Range: 8682m, Bearing: 160.7°, Depth: 109m
+Motion - Speed: 2.5m/s, Course: 180.2°
+
+ACOUSTIC SIGNATURE:
+  Doppler Shift: 2.1 Hz
+  SNR: 15.2 dB
+  Features:
+    MeanAmplitude: 0.241
+    MaxAmplitude: 0.499
+    MinAmplitude: 0.004
+    StdDev: 0.142
+    Doppler: 2.066
+    SNR: 15.179
+    SpectralCentroid: 257.357
+    Complexity: 0.330
+
+
+[CONTACT #14]
+----------------------------------------
+CONTACT ID: 948ad69f-6c9e-4232-bcc0-e7fd3d5d6270
+Detection Time: 2026-01-21 23:59:52
+Classification: SurfaceVessel
+Confidence: High
+Threat Level: 4%
+Position - Range: 9716m, Bearing: 56.3°, Depth: 303m
+Motion - Speed: 0.0m/s, Course: 33.6°
+
+ACOUSTIC SIGNATURE:
+  Doppler Shift: 0.0 Hz
+  SNR: 14.9 dB
+  Features:
+    MeanAmplitude: 0.035
+    MaxAmplitude: 0.727
+    MinAmplitude: 0.000
+    StdDev: 0.100
+    Doppler: 0.000
+    SNR: 14.941
+    SpectralCentroid: 241.103
+    Complexity: 0.299
+
+
+[CONTACT #15]
+----------------------------------------
+CONTACT ID: a2c90b67-e107-4f2f-8dd2-4679abee47c2
+Detection Time: 2026-01-21 23:59:52
+Classification: Unknown
+Confidence: Low
+Threat Level: 0%
+Position - Range: 6449m, Bearing: -96.6°, Depth: 83m
+Motion - Speed: 1.3m/s, Course: 228.0°
+
+ACOUSTIC SIGNATURE:
+  Doppler Shift: -6.1 Hz
+  SNR: 12.1 dB
+  Features:
+    MeanAmplitude: 0.043
+    MaxAmplitude: 0.807
+    MinAmplitude: 0.000
+    StdDev: 0.115
+    Doppler: -6.079
+    SNR: 12.106
+    SpectralCentroid: 94.181
+    Complexity: 0.285
+
+
+[CONTACT #16]
+----------------------------------------
+CONTACT ID: 507c4d19-5c2b-4ab7-980e-ef24f3da72dd
+Detection Time: 2026-01-21 23:59:56
+Classification: Unknown
+Confidence: Low
+Threat Level: 0%
+Position - Range: 2149m, Bearing: 131.4°, Depth: 47m
+Motion - Speed: 3.8m/s, Course: 169.9°
+
+ACOUSTIC SIGNATURE:
+  Doppler Shift: -0.9 Hz
+  SNR: 12.1 dB
+  Features:
+    MeanAmplitude: 0.043
+    MaxAmplitude: 0.811
+    MinAmplitude: 0.000
+    StdDev: 0.115
+    Doppler: -0.949
+    SNR: 12.093
+    SpectralCentroid: 94.257
+    Complexity: 0.291
+
+
+======================================================================
+SYSTEM STATISTICS:
+======================================================================
+Average Range: 5784m
+Average Speed: 7.4m/s
+Average Threat Level: 9%
+High Threat Contacts (>70%): 0
+Unknown Classifications: 2

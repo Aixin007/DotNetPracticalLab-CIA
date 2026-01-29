@@ -1,0 +1,14 @@
+Submarine|Military|Subsurface|HIGH
+SurfaceVessel|Military|Surface|MEDIUM
+Destroyer|Military|Surface|HIGH
+AircraftCarrier|Military|Surface|CRITICAL
+MerchantShip|Commercial|Surface|LOW
+Whale|MarineLife|Biological|NONE
+Dolphin|MarineLife|Biological|NONE
+SchoolOfFish|MarineLife|Biological|NONE
+Mine|Military|Threat|CRITICAL
+Torpedo|Military|Weapon|CRITICAL
+UnderwaterDrone|Military|UAV|HIGH
+SonarBuoy|Military|Surveillance|MEDIUM
+Wreckage|Debris|Non-Threatening|LOW
+Seabed|Terrain|Geological|NONE

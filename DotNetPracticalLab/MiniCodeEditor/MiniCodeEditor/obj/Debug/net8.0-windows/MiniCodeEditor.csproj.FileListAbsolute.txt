@@ -1,0 +1,16 @@
+C:\Users\Annika Dubey\source\repos\MiniCodeEditor\MiniCodeEditor\bin\Debug\net8.0-windows\MiniCodeEditor.exe
+C:\Users\Annika Dubey\source\repos\MiniCodeEditor\MiniCodeEditor\bin\Debug\net8.0-windows\MiniCodeEditor.deps.json
+C:\Users\Annika Dubey\source\repos\MiniCodeEditor\MiniCodeEditor\bin\Debug\net8.0-windows\MiniCodeEditor.runtimeconfig.json
+C:\Users\Annika Dubey\source\repos\MiniCodeEditor\MiniCodeEditor\bin\Debug\net8.0-windows\MiniCodeEditor.dll
+C:\Users\Annika Dubey\source\repos\MiniCodeEditor\MiniCodeEditor\bin\Debug\net8.0-windows\MiniCodeEditor.pdb
+C:\Users\Annika Dubey\source\repos\MiniCodeEditor\MiniCodeEditor\obj\Debug\net8.0-windows\MiniCodeEditor.Form1.resources
+C:\Users\Annika Dubey\source\repos\MiniCodeEditor\MiniCodeEditor\obj\Debug\net8.0-windows\MiniCodeEditor.csproj.GenerateResource.cache
+C:\Users\Annika Dubey\source\repos\MiniCodeEditor\MiniCodeEditor\obj\Debug\net8.0-windows\MiniCodeEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Annika Dubey\source\repos\MiniCodeEditor\MiniCodeEditor\obj\Debug\net8.0-windows\MiniCodeEditor.AssemblyInfoInputs.cache
+C:\Users\Annika Dubey\source\repos\MiniCodeEditor\MiniCodeEditor\obj\Debug\net8.0-windows\MiniCodeEditor.AssemblyInfo.cs
+C:\Users\Annika Dubey\source\repos\MiniCodeEditor\MiniCodeEditor\obj\Debug\net8.0-windows\MiniCodeEditor.csproj.CoreCompileInputs.cache
+C:\Users\Annika Dubey\source\repos\MiniCodeEditor\MiniCodeEditor\obj\Debug\net8.0-windows\MiniCodeEditor.dll
+C:\Users\Annika Dubey\source\repos\MiniCodeEditor\MiniCodeEditor\obj\Debug\net8.0-windows\refint\MiniCodeEditor.dll
+C:\Users\Annika Dubey\source\repos\MiniCodeEditor\MiniCodeEditor\obj\Debug\net8.0-windows\MiniCodeEditor.pdb
+C:\Users\Annika Dubey\source\repos\MiniCodeEditor\MiniCodeEditor\obj\Debug\net8.0-windows\MiniCodeEditor.genruntimeconfig.cache
+C:\Users\Annika Dubey\source\repos\MiniCodeEditor\MiniCodeEditor\obj\Debug\net8.0-windows\ref\MiniCodeEditor.dll

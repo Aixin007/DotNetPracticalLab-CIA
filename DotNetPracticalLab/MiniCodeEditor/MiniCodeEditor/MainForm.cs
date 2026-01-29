@@ -586,4 +586,73 @@ namespace MiniCodeEditor
             recentFiles.Add("TestApp.cs");
         }
     }
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Console.WriteLine("Hello World!");
+//Console.WriteLine("This is working!");
+//Console.WriteLine("2 + 3 = 5");
+
+
+
+
+
+/*using System;
+
+namespace TestProgram
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello from Mini Code Editor!");
+            Console.WriteLine("This is a test program.");
+            
+            // Simple calculation
+            int a = 10;
+            int b = 5;
+            int sum = a + b;
+            
+            Console.WriteLine($"The sum of {a} and {b} is: {sum}");
+            
+            // Simple loop
+            Console.WriteLine("\nCounting from 1 to 5:");
+            for (int i = 1; i <= 5; i++)
+            {
+                Console.WriteLine($"Number: {i}");
+            }
+            
+            Console.WriteLine("\nProgram execution completed successfully!");
+            Console.WriteLine("Press any key to exit...");
+            Console.ReadKey();
+        }
+    }
+}*/

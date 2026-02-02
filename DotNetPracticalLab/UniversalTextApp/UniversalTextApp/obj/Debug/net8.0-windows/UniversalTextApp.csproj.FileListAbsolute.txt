@@ -1,0 +1,14 @@
+C:\Users\Annika Dubey\source\repos\UniversalTextApp\UniversalTextApp\bin\Debug\net8.0-windows\UniversalTextApp.exe
+C:\Users\Annika Dubey\source\repos\UniversalTextApp\UniversalTextApp\bin\Debug\net8.0-windows\UniversalTextApp.deps.json
+C:\Users\Annika Dubey\source\repos\UniversalTextApp\UniversalTextApp\bin\Debug\net8.0-windows\UniversalTextApp.runtimeconfig.json
+C:\Users\Annika Dubey\source\repos\UniversalTextApp\UniversalTextApp\bin\Debug\net8.0-windows\UniversalTextApp.dll
+C:\Users\Annika Dubey\source\repos\UniversalTextApp\UniversalTextApp\bin\Debug\net8.0-windows\UniversalTextApp.pdb
+C:\Users\Annika Dubey\source\repos\UniversalTextApp\UniversalTextApp\obj\Debug\net8.0-windows\UniversalTextApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Annika Dubey\source\repos\UniversalTextApp\UniversalTextApp\obj\Debug\net8.0-windows\UniversalTextApp.AssemblyInfoInputs.cache
+C:\Users\Annika Dubey\source\repos\UniversalTextApp\UniversalTextApp\obj\Debug\net8.0-windows\UniversalTextApp.AssemblyInfo.cs
+C:\Users\Annika Dubey\source\repos\UniversalTextApp\UniversalTextApp\obj\Debug\net8.0-windows\UniversalTextApp.csproj.CoreCompileInputs.cache
+C:\Users\Annika Dubey\source\repos\UniversalTextApp\UniversalTextApp\obj\Debug\net8.0-windows\UniversalTextApp.dll
+C:\Users\Annika Dubey\source\repos\UniversalTextApp\UniversalTextApp\obj\Debug\net8.0-windows\refint\UniversalTextApp.dll
+C:\Users\Annika Dubey\source\repos\UniversalTextApp\UniversalTextApp\obj\Debug\net8.0-windows\UniversalTextApp.pdb
+C:\Users\Annika Dubey\source\repos\UniversalTextApp\UniversalTextApp\obj\Debug\net8.0-windows\UniversalTextApp.genruntimeconfig.cache
+C:\Users\Annika Dubey\source\repos\UniversalTextApp\UniversalTextApp\obj\Debug\net8.0-windows\ref\UniversalTextApp.dll
